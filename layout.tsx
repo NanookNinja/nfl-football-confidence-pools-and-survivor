@@ -1,0 +1,1 @@
+export const metadata={title:"Tim’s NFL Pool Room",description:"Confidence, survivor and weekly picks"}; export default function Layout({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}
